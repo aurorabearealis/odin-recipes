@@ -1,1 +1,2 @@
 # odin-recipes
+So far, I have learned the basics of Git, CLI, and basic HTML. After years of tinkering around with a lot of these tools, they're finally beginning to make a lot of sense. I feel extremely confident and like I have an understanding that I have never had before. I am so happy with my progress in a matter of days. Thank you, Odin. 
